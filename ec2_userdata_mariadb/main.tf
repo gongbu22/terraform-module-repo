@@ -27,6 +27,5 @@ data "template_file" "mariadb_userdata" {
     n
     y
     y
-    EOF
   EOF
 }
